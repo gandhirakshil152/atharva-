@@ -31,7 +31,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: "📧", label: "EMAIL", value: "info@atharvaenterpriseco.com", href: "mailto:info@atharvaenterpriseco.co" },
+    { icon: "📧", label: "EMAIL", value: "sales@atharvaenterpriseco.com", href: "mailto:sales@atharvaenterpriseco.co" },
     { icon: "📱", label: "Atharva Enterprise", value: "+91 6359255655", href: "tel:+916359255655" },
     { icon: "📍", label: "WAREHOUSE", value: "101, Parshavnath Complex,Morbi Highway, Near Shiv Car Rental,Morbi – 363642, Gujarat, India", href: undefined },
   ];
