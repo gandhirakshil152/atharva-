@@ -24,7 +24,7 @@ const Contact = () => {
     
     const subject = encodeURIComponent(`Inquiry from ${name}`);
     const body = encodeURIComponent(`Name: ${name}\nPhone: ${phone}\n\nMessage:\n${message}`);
-    window.open(`https://mail.google.com/mail/?view=cm&fs=1&to=kapil.pandya@atharvaenterpriseco.com&su=${subject}&body=${body}`, '_blank');
+    window.open(`https://mail.google.com/mail/?view=cm&fs=1&to=sales@atharvaenterpriseco.com&su=${subject}&body=${body}`, '_blank');
     
     setSubmitted(true);
     setTimeout(() => setSubmitted(false), 3000);
