@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 220 20% 12%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 12%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 20% 12%;
+    
+    --primary: 16 75% 48%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 220 10% 96%;
+    --secondary-foreground: 220 20% 15%;
+    
+    --muted: 220 10% 96%;
+    --muted-foreground: 220 10% 45%;
+    
+    --accent: 16 50% 95%;
+    --accent-foreground: 16 75% 38%;
+    
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 220 10% 90%;
+    --input: 220 10% 92%;
+    --ring: 16 75% 48%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 220 10% 97%;
+    --sidebar-foreground: 220 10% 30%;
+    --sidebar-primary: 16 75% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 10% 94%;
+    --sidebar-accent-foreground: 220 20% 15%;
+    --sidebar-border: 220 10% 90%;
+    --sidebar-ring: 16 75% 48%;
+    
+    --gradient-hero: linear-gradient(135deg, hsl(220 20% 8% / 0.85), hsl(16 75% 25% / 0.4));
+    --gradient-overlay: linear-gradient(180deg, hsl(220 20% 8% / 0.65), hsl(220 20% 8% / 0.35));
+    
+    --shadow-architectural: 0 25px 50px -12px hsl(220 20% 12% / 0.12);
+    --shadow-elegant: 0 10px 30px -10px hsl(220 20% 12% / 0.08);
+    
+    --transition-smooth: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    --transition-fast: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'DM Sans', sans-serif;
+  }
+  
+  .font-display {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .text-architectural {
+    @apply tracking-[-0.02em] leading-[1.1];
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .text-minimal {
+    @apply tracking-widest uppercase text-xs font-semibold;
+    font-family: 'DM Sans', sans-serif;
+  }
+  
+  .hero-overlay {
+    background: var(--gradient-overlay);
+  }
+  
+  .reveal {
+    @apply opacity-0 translate-y-8;
+    animation: reveal 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  
+  .reveal-delayed {
+    @apply opacity-0 translate-y-8;
+    animation: reveal 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+  }
+
+  .reveal-delayed-2 {
+    @apply opacity-0 translate-y-8;
+    animation: reveal 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.6s forwards;
+  }
+  
+  @keyframes reveal {
+    to {
+      @apply opacity-100 translate-y-0;
+    }
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+  }
+  .shimmer-line {
+    background: linear-gradient(90deg, transparent, hsl(var(--primary) / 0.4), transparent);
+    background-size: 200% 100%;
+    animation: shimmer 3s ease-in-out infinite;
+  }
+
+  .hover-lift {
+    @apply transition-all duration-500;
+  }
+  .hover-lift:hover {
+    @apply -translate-y-2;
+    box-shadow: var(--shadow-architectural);
+  }
+
+  @keyframes glow-pulse {
+    0%, 100% { box-shadow: 0 0 20px hsl(var(--primary) / 0.2); }
+    50% { box-shadow: 0 0 40px hsl(var(--primary) / 0.4); }
+  }
+  .glow-pulse {
+    animation: glow-pulse 2.5s ease-in-out infinite;
+  }
+
+  .grain-overlay::after {
+    content: '';
+    @apply absolute inset-0 pointer-events-none;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+
+  .story-link * {
+    @apply relative inline-block;
+  }
+  .story-link *::after {
+    content: '';
+    @apply absolute w-full h-0.5 bottom-0 left-0 origin-bottom-right transition-transform duration-300 scale-x-0;
+    background: hsl(var(--primary));
+  }
+  .story-link:hover *::after {
+    @apply scale-x-100 origin-bottom-left;
+  }
+}
