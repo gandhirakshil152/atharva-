@@ -24,18 +24,18 @@ export const blogPosts: BlogPost[] = [
     content: `
 # What is Kaolin Clay? Uses, Benefits & Industrial Applications
 
-Kaolin clay — also known as china clay — is one of the most versatile and widely used industrial minerals in the world. At **Atharva Enterprise**, we supply premium-grade kaolin clay to manufacturers across ceramics, paper, paint, rubber, and construction industries.
+Kaolin clay — also known as china clay — is one of the most versatile and widely used industrial minerals in the world. At "Atharva Enterprise", we supply premium-grade kaolin clay to manufacturers across ceramics, paper, paint, rubber, and construction industries.
 
 ## What is Kaolin Clay?
 
 Kaolin is a soft, white clay mineral primarily composed of kaolinite (Al₂Si₂O₅(OH)₄). It forms through the chemical weathering of aluminium silicate minerals like feldspar. Known for its fine particle size, bright whiteness, and chemical inertness, kaolin is indispensable across dozens of industries.
 
 ### Key Properties of Kaolin Clay
-- **High whiteness and brightness** — ideal for paper coatings and paints
-- **Fine particle size** — ensures smooth finish in ceramics
-- **Chemical inertness** — safe for cosmetics and pharmaceuticals
-- **Low conductivity** — used as an electrical insulator
-- **Plasticity when wet** — perfect for ceramic forming
+- High whiteness and brightness — ideal for paper coatings and paints
+- Fine particle size — ensures smooth finish in ceramics
+- Chemical inertness — safe for cosmetics and pharmaceuticals
+- Low conductivity — used as an electrical insulator
+- Plasticity when wet — perfect for ceramic forming
 
 ## Major Industrial Applications
 
@@ -59,15 +59,15 @@ Due to its gentle, non-toxic nature, kaolin is widely used in face masks, skinca
 
 ## Why Quality Matters
 
-Not all kaolin is created equal. The purity, particle size distribution, and mineral composition directly affect end-product quality. **Atharva Enterprise** sources only the highest-grade kaolin from trusted mines across India, ensuring consistent quality for every shipment.
+Not all kaolin is created equal. The purity, particle size distribution, and mineral composition directly affect end-product quality. "Atharva Enterprise" sources only the highest-grade kaolin from trusted mines across India, ensuring consistent quality for every shipment.
 
 ## Why Choose Atharva Enterprise?
 
-- ✅ Premium-grade kaolin clay from India
-- ✅ Bulk supply for industrial manufacturers
-- ✅ Competitive pricing with reliable logistics
-- ✅ Export-ready with international quality standards
-- ✅ Trusted by ceramic, paper, and paint manufacturers
+- Premium-grade kaolin clay from India
+- Bulk supply for industrial manufacturers
+- Competitive pricing with reliable logistics
+- Export-ready with international quality standards
+- Trusted by ceramic, paper, and paint manufacturers
 
 ## Conclusion
 
@@ -89,7 +89,7 @@ Kaolin clay remains one of the most important industrial minerals, powering indu
     content: `
 # Kaolin Clay for Ceramics: Properties, Uses & Why Quality Matters
 
-The ceramic industry relies heavily on kaolin clay as a fundamental raw material. From floor tiles to premium sanitaryware, kaolin determines the quality, strength, and finish of ceramic products. **Atharva Enterprise** is a leading supplier of ceramic-grade kaolin clay from India.
+The ceramic industry relies heavily on kaolin clay as a fundamental raw material. From floor tiles to premium sanitaryware, kaolin determines the quality, strength, and finish of ceramic products. "Atharva Enterprise" is a leading supplier of ceramic-grade kaolin clay from India.
 
 ## The Role of Kaolin in Ceramics
 
@@ -123,12 +123,12 @@ Kaolin-based refractories withstand extreme temperatures, making them essential 
 
 ## Atharva Enterprise: Your Ceramic Clay Partner
 
-At **Atharva Enterprise**, we understand the precise requirements of ceramic manufacturers. Our kaolin is:
+At Atharva Enterprise, we understand the precise requirements of ceramic manufacturers. Our kaolin is:
 
-- ✅ Tested for whiteness, plasticity, and chemical composition
-- ✅ Available in bulk quantities for large-scale production
-- ✅ Competitively priced for both domestic and export markets
-- ✅ Shipped with complete quality certificates and test reports
+- Tested for whiteness, plasticity, and chemical composition
+- Available in bulk quantities for large-scale production
+- Competitively priced for both domestic and export markets
+- Shipped with complete quality certificates and test reports
 
 ## Conclusion
 
@@ -155,10 +155,10 @@ Selecting the right kaolin clay supplier can make or break your manufacturing pr
 ## Why Your Supplier Choice Matters
 
 Your kaolin supplier affects:
-- **Product quality** — inconsistent clay leads to defects and waste
-- **Production costs** — unreliable supply causes downtime
-- **Market competitiveness** — premium raw materials enable premium products
-- **Compliance** — international markets require certified materials
+- Product quality — inconsistent clay leads to defects and waste
+- Production costs — unreliable supply causes downtime
+- Market competitiveness — premium raw materials enable premium products
+- Compliance — international markets require certified materials
 
 ## Key Factors to Evaluate
 
@@ -183,17 +183,17 @@ For international buyers, logistics capability is essential:
 
 ## Why Atharva Enterprise?
 
-**Atharva Enterprise** stands apart as a kaolin clay supplier because:
+Atharva Enterprise stands apart as a kaolin clay supplier because:
 
-- 🏭 **Direct sourcing** from premium mines across India
-- 📊 **Complete quality documentation** with every shipment
-- 🌍 **Export expertise** to multiple countries
-- 💰 **Competitive bulk pricing** with flexible terms
-- 🤝 **Dedicated account management** for every client
+- 🏭 Direct sourcing from premium mines across India
+- 📊 Complete quality documentation with every shipment
+- 🌍 Export expertise to multiple countries
+- 💰 Competitive bulk pricing with flexible terms
+- 🤝 Dedicated account management for every client
 
 ## Conclusion
 
-Choosing the right kaolin clay supplier is a strategic decision that impacts your product quality, costs, and competitiveness. **Atharva Enterprise** checks all these boxes, making us the preferred choice for manufacturers worldwide.
+Choosing the right kaolin clay supplier is a strategic decision that impacts your product quality, costs, and competitiveness. Atharva Enterprise checks all these boxes, making us the preferred choice for manufacturers worldwide.
 
 *Contact Atharva Enterprise for competitive quotes on bulk kaolin clay supply.*
     `,
@@ -211,7 +211,7 @@ Choosing the right kaolin clay supplier is a strategic decision that impacts you
     content: `
 # Global Market Trends in Kaolin Clay & Ceramic Industry (2026 Guide)
 
-The global kaolin clay market continues to evolve, driven by expanding construction sectors, growing ceramic production, and increasing demand from emerging economies. **Atharva Enterprise** keeps our clients ahead of market trends with premium kaolin supply from India.
+The global kaolin clay market continues to evolve, driven by expanding construction sectors, growing ceramic production, and increasing demand from emerging economies. Atharva Enterprise keeps our clients ahead of market trends with premium kaolin supply from India.
 
 ## Market Overview
 
@@ -241,16 +241,16 @@ Ceramic manufacturers are reducing energy consumption with optimized kaolin form
 
 ## Why Partner with Atharva Enterprise?
 
-As India's trusted kaolin exporter, **Atharva Enterprise** offers:
+As India's trusted kaolin exporter, Atharva Enterprise offers:
 
-- 📈 **Market insights** to help you make informed purchasing decisions
-- 🌍 **Global shipping** with experience across Asia, Middle East, Africa & Europe
-- 🔬 **Quality assurance** with comprehensive testing and certification
-- 💼 **Flexible terms** for both trial orders and long-term contracts
+- 📈 Market insights to help you make informed purchasing decisions
+- 🌍 Global shipping with experience across Asia, Middle East, Africa & Europe
+- 🔬 Quality assurance with comprehensive testing and certification
+- 💼 Flexible terms for both trial orders and long-term contracts
 
 ## Conclusion
 
-The kaolin clay market presents significant opportunities for manufacturers and importers who stay informed about global trends. **Atharva Enterprise** is positioned to be your reliable partner in navigating this dynamic market.
+The kaolin clay market presents significant opportunities for manufacturers and importers who stay informed about global trends. Atharva Enterprise is positioned to be your reliable partner in navigating this dynamic market.
 
 *Connect with Atharva Enterprise to discuss your kaolin requirements and get the latest market pricing.*
     `,
