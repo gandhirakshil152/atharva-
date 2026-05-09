@@ -71,7 +71,7 @@ Not all kaolin is created equal. The purity, particle size distribution, and min
 
 ## Conclusion
 
-Kaolin clay remains one of the most important industrial minerals, powering industries from ceramics to cosmetics. Whether you're a manufacturer, importer, or distributor, partnering with a reliable kaolin clay supplier like **Atharva Enterprise** ensures consistent quality and competitive pricing for your business.
+Kaolin clay remains one of the most important industrial minerals, powering industries from ceramics to cosmetics. Whether you're a manufacturer, importer, or distributor, partnering with a reliable kaolin clay supplier like Atharva Enterprise ensures consistent quality and competitive pricing for your business.
 
 *Contact Atharva Enterprise today for bulk kaolin clay pricing and samples.*
     `,
@@ -132,7 +132,7 @@ At Atharva Enterprise, we understand the precise requirements of ceramic manufac
 
 ## Conclusion
 
-Choosing the right kaolin clay supplier is critical for ceramic manufacturers who demand consistent quality and reliable supply. **Atharva Enterprise** delivers premium ceramic-grade kaolin that meets international standards, helping manufacturers produce superior tiles, sanitaryware, and pottery.
+Choosing the right kaolin clay supplier is critical for ceramic manufacturers who demand consistent quality and reliable supply. Atharva Enterprise delivers premium ceramic-grade kaolin that meets international standards, helping manufacturers produce superior tiles, sanitaryware, and pottery.
 
 *Request a sample or bulk quote from Atharva Enterprise today.*
     `,
