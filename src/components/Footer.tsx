@@ -29,7 +29,7 @@ const Footer = () => {
                 <li>📧 kapil.pandya@atharvaenterpriseco.com</li>
                 <li>📞 +91 9081774674</li>
                 <li>📞 +91 6359255655</li>
-                <li>Mon – Sat: 8:00 AM – 7:00 PM</li>
+                <li>Mon – Sat: 9:00 AM – 6:00 PM</li>
               </ul>
             </div>
           </div>
