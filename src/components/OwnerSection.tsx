@@ -73,15 +73,15 @@ const OwnerSection = () => {
 
               <div className="mt-8 flex flex-wrap gap-6">
                 <div className="text-center">
-                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">15+</p>
+                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">5+</p>
                   <p className="text-minimal text-muted-foreground text-[9px] mt-1">YEARS</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">500+</p>
+                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">100+</p>
                   <p className="text-minimal text-muted-foreground text-[9px] mt-1">CLIENTS</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">25+</p>
+                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">7+</p>
                   <p className="text-minimal text-muted-foreground text-[9px] mt-1">COUNTRIES</p>
                 </div>
               </div>
