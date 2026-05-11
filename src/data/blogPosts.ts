@@ -146,7 +146,7 @@ Choosing the right kaolin clay supplier is critical for ceramic manufacturers wh
   {
     id: "choose-right-kaolin-supplier",
     title: "How to Choose the Right Kaolin Clay Supplier for Your Business",
-    excerpt: "A comprehensive guide to selecting the best kaolin clay supplier — covering quality standards, pricing, logistics, and long-term partnership benefits. Atharva Enterprise", India's trusted clay exporter.",
+    excerpt: "A comprehensive guide to selecting the best kaolin clay supplier — covering quality standards, pricing, logistics, and long-term partnership benefits. Atharva Enterprise, India's trusted clay exporter.",
     content: `
 # How to Choose the Right Kaolin Clay Supplier for Your Business
 
