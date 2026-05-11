@@ -81,7 +81,7 @@ const OwnerSection = () => {
                   <p className="text-minimal text-muted-foreground text-[9px] mt-1">CLIENTS</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">8+</p>
+                  <p className="text-2xl sm:text-3xl font-display font-bold text-primary">7+</p>
                   <p className="text-minimal text-muted-foreground text-[9px] mt-1">COUNTRIES</p>
                 </div>
               </div>
